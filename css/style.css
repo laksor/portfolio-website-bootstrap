@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: brown;
+}
+.home-img{
+    margin-left: 130px;
+}
+.home{
+    background-image: url('particles');
+}
+.text-after::after{
+    content: '';
+    width: 12%;
+    height: 6px;
+    background-color: #f9004d;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    border: 3px solid red;
+    
+}

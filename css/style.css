@@ -13,9 +13,7 @@
 .home-img{
     margin-left: 130px;
 }
-.home{
-    background-image: url('particles');
-}
+
 .text-after::after{
     content: '';
     width: 12%;
